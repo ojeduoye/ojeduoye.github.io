@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ojeduoye.github.io/KIP/sitemap_index.txt
+Sitemap: https://ojeduoye.github.io/SsZ/sitemap_index.txt
+Sitemap: https://ojeduoye.github.io/Zkl/sitemap_index.txt
+Sitemap: https://ojeduoye.github.io/uLc/sitemap_index.txt
